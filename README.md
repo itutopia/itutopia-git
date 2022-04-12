@@ -1,6 +1,13 @@
-# itutopia-git Git解读与实操
+# ITUtopia-Git -> Git解读与实操
 
-## Git 常用命令
+## 一.Git原理及剖析
+    
+## 二.Git本地安装
+
+## 三.Git环境搭建
+
+## 四.Git常用命令
+### 线上模拟环境(仅供学习):https://oschina.gitee.io/learn-git-branching/
 ### 仓库
 ##### 在当前目录新建一个Git代码库
 $ git init
@@ -254,7 +261,7 @@ $ git reset --hard [commit]
 $ git reset --keep [commit]
 
 ##### 新建一个commit，用来撤销指定commit
-# 后者的所有变化都将被前者抵消，并且应用到当前分支
+##### 后者的所有变化都将被前者抵消，并且应用到当前分支
 $ git revert [commit]
 
 ##### 暂时将未提交的变化移除，稍后再移入
@@ -264,3 +271,10 @@ $ git stash pop
 ### 其他
 ##### 生成一个可供发布的压缩包
 $ git archive
+
+#### 参考:
+https://gitee.com/all-about-git
+
+#### IT乌托邦社区-知行社
+知识领航者:
+李俊超  郝德贝
