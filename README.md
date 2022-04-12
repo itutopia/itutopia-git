@@ -1,13 +1,27 @@
 # ITUtopia-Git -> Git解读与实操
 
-## 一.Git原理及剖析
-    
-## 二.Git本地安装
+## 01.Git原理及剖析
+#### 分享Git的原理及实现细节剖析
+[Git原理及剖析](https://github.com/itutopia/itutopia-git/blob/master/doc/01.Git%E5%8E%9F%E7%90%86%E5%8F%8A%E5%89%96%E6%9E%90.md)
 
-## 三.Git环境搭建
-
-## 四.Git常用命令
+## 02.Git命令清单
+#### 分享Git的命令清单(全)
 ### 线上模拟环境(仅供学习):https://oschina.gitee.io/learn-git-branching/
+[Git命令清单](https://github.com/itutopia/itutopia-git/blob/master/doc/02.Git%E5%91%BD%E4%BB%A4%E6%B8%85%E5%8D%95.md)
+
+## 03.Git本地安装
+#### 分享Git本地安装和Github等配置
+[Git本地安装](https://github.com/itutopia/itutopia-git/blob/master/doc/03.Git%E6%9C%AC%E5%9C%B0%E5%AE%89%E8%A3%85.md)
+
+## 04.Git环境搭建
+#### 分享Git仓库的环境安装及使用
+[Git环境搭建](https://github.com/itutopia/itutopia-git/blob/master/doc/04.Git%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+
+## 05.Git相关资源
+#### 分享Git书籍及相关资源
+[Git相关资源](https://github.com/itutopia/itutopia-git/blob/master/doc/05.Git%E7%9B%B8%E5%85%B3%E8%B5%84%E6%BA%90.md)
+
+## 附:Git常用命令
 ### 仓库
 ##### 在当前目录新建一个Git代码库
 $ git init
