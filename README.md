@@ -6,7 +6,7 @@
 
 ## 02.Git命令清单
 #### 分享Git的命令清单(全)
-### 线上模拟环境(仅供学习):https://oschina.gitee.io/learn-git-branching/
+#### 线上模拟环境(仅供学习):https://oschina.gitee.io/learn-git-branching/
 [Git命令清单](https://github.com/itutopia/itutopia-git/blob/master/doc/02.Git%E5%91%BD%E4%BB%A4%E6%B8%85%E5%8D%95.md)
 
 ## 03.Git本地安装
