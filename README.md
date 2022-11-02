@@ -1,4 +1,6 @@
-# ITUtopia-Git -> Git解读与实操
+# ITUtopia-Git
+
+## Git解读与实操
 
 ## 01.Git原理及剖析
 #### 分享Git的原理及实现细节剖析
